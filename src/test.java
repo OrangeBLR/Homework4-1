@@ -11,6 +11,6 @@ public class test {
         System.out.print(" Area: ");
         System.out.println(area);
 
-        System.out.print(circle>5 && area<125);
+        System.out.print(circle>5 || area<125);
     }
 }
