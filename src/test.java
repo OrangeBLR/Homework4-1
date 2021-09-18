@@ -5,9 +5,9 @@ public class test {
         Scanner scanner=new Scanner(System.in);
         int number=scanner.nextInt();
         if ( number % 2 == 0 )
-            System.out.println("Число четное");
+            System.out.println("Четное");
         else
-            System.out.println("Число нечетное");
+            System.out.println("Нечетное");
         }
     }
 
